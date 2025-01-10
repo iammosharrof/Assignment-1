@@ -45,7 +45,7 @@
   font-size: 18px;
 }
 /* banner styles end */
-/* vission styles start */
+/* vision styles start */
 .section-title{
   margin: 100px 160px 24px 160px;
   width: 1280px;
@@ -93,7 +93,7 @@
   font-size: 24px;
   font-weight: bold;
 }
-.vission-description{
+.vision-description{
   font-weight: 16px;
 }
 .vision-btn{
@@ -115,3 +115,4 @@
 .vision-btn3{
   background-color: #FFC239;
 }
+/* vision styles end */
