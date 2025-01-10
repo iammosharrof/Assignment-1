@@ -1,0 +1,43 @@
+/* header styles start */
+.banner{
+  display: flex;
+  background-color: #C6E4D6;
+  border-radius: 24px;
+  margin: 120px 160px 0px 160px;
+  height: 560px;
+  width: 1360px;
+}
+.banner-content{
+  margin: 70px 30px 70px 60px;
+  height: 326px;
+  width: 622px;
+}
+.banner-img{
+  margin: 80px 100px 80px;
+  height: 400px;
+  width: 475px;
+}
+.banner-title{
+  height: 29px; ;
+  width: 622px;
+  font-weight: 500;
+  font-size: 24px;
+  color: #EEAADD;
+}
+.banner-description{
+  width: 622px;
+  height: 201px;
+  font-weight: bold;
+  font-size: 56px;
+  color: #0E0E0E;
+}
+.banner-btn{
+  width: 270px;
+  height: 56px;
+  border-radius: 8px;
+  border: none;
+  background-color: #006A50;
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 18px;
+}
