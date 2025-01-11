@@ -285,3 +285,8 @@
 .q-subtitle{
   padding: 0px 24px 48px 24px;
 }
+/* Quote styles end */
+/* hover styles */
+.amount-btn:hover, .vision1:hover, .vision2:hover, .vision3:hover {
+  background-color: #08e782;
+}
