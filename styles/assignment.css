@@ -117,7 +117,7 @@
   background-color: #FFC239;
 }
 /* vision styles end */
-/* news section start */
+/* news styles start */
 .news-container{
   display: flex;
   width: 1280px;
@@ -158,6 +158,58 @@
   border: none;
   background-color: #006A50; 
   color: #FFFFFF;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 20px;
+}
+/* news styles end */
+/* donate styles start */
+.donate{
+  margin: 80px 160px 60px 160px;
+  width: 1280px;
+  height: 464px;
+  text-align: center;
+  background-color: #ccb4e467;
+}
+.d-title{
+  padding: 30px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.d-subtitle{
+  padding-left: 88px;
+  padding-right: 88px;
+}
+.d-btn{
+  padding-left: 104px;
+  padding-right: 104px;
+}
+.amount-btn{
+  width: 240px;
+  height: 80px;
+  border-radius: 16px;
+  border: none;
+  font-size: 40px;
+  font-weight: bold;
+}
+.btn-200{
+  background-color: #C6E4D6;
+}
+#other-amount{
+  width: 600px;
+  height: 64px;
+  margin-top: 25px;
+  text-align: center;
+  border: none;
+  background-color: #f7ebcf93;
+  font-size: 20px;
+}
+.dn-btn{
+  background-color: #006A50;
+  border: none;
+  border-radius: 8px;
+  height: 50px;
+  width: 140px;
   font-weight: 600;
   font-size: 18px;
   margin-top: 20px;
