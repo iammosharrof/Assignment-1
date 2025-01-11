@@ -260,3 +260,28 @@
   border-bottom-right-radius: 8px;
 }
 /* newsletter styles end */
+/* Quote styles start */
+.Quote{
+  margin: 0px 160px 0px 160px;
+  width: 1280px;
+  height: 256px;
+  background-color: #09a15d18;
+  background-image: url(../images/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: 24px;
+  background-position-y: 25px;
+  
+}
+.q-description{
+  color: #0e0e0ecb;
+  padding: 48px 24px 0px 24px;
+}
+.q-title{
+  color: #0e0e0ecb;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 12px 24px 0px 24px;
+}
+.q-subtitle{
+  padding: 0px 24px 48px 24px;
+}
